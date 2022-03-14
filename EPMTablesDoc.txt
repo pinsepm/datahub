@@ -1,0 +1,8 @@
+Links to Datahub Docs that create and schedule tables in EPM schema
+
+https://querybook.pinadmin.com/data/datadoc/179821/conversions-table/
+https://querybook.pinadmin.com/data/datadoc/179823/salesbystate-table/
+https://querybook.pinadmin.com/data/datadoc/182400/partnerhealth-annual-table/
+https://querybook.pinadmin.com/data/datadoc/182402/partnerhealth-quarter-v2-table/
+https://querybook.pinadmin.com/data/datadoc/182403/partnerhealth-quarter-v4-table/
+https://querybook.pinadmin.com/data/datadoc/189554/daily-activity-stats-table/
